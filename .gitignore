@@ -1,0 +1,15 @@
+
+
+logs/
+secrets/
+secret.key
+secret.key.not-so-secret
+updates/
+users/*/*.xml
+userContent/
+workspace/
+# ignore plugins folder except jpi files of installed plugins
+plugins/*/
+# jenkinsUrl with IP address
+jenkins.model.JenkinsLocationConfiguration.xml
+identity.key.enc

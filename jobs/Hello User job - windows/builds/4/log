@@ -1,0 +1,12 @@
+Started by user [8mha:////4PcV683Feat0ZdR7EPPWSSwfwGiORpMb91Q84yDxjIhHAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL94qqq4vy0zEQAN5sx3MMAAAA=[0mszzsofia
+Running as SYSTEM
+Building remotely on [8mha:////4Eg5g8uqOjoyEo7SLz/a2QL3mVbtMQHF/qHqFzjvQR0mAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/cT01LwSQwA2IiAFxQAAAA==[0magent1 (win10) in workspace C:\slave\workspace\Hello User job - windows
+[Hello User job - windows] $ cmd /c call C:\Users\SZKELY~1\AppData\Local\Temp\jenkins17892830926961829507.bat
+
+C:\slave\workspace\Hello User job - windows>echo "Hello, Judit!" 
+"Hello, Judit!"
+
+C:\slave\workspace\Hello User job - windows>exit 0 
+Build was aborted
+Aborted by [8mha:////4PcV683Feat0ZdR7EPPWSSwfwGiORpMb91Q84yDxjIhHAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL94qqq4vy0zEQAN5sx3MMAAAA=[0mszzsofia
+Finished: ABORTED

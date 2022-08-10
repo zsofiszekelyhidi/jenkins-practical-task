@@ -1,0 +1,7 @@
+Started by user [8mha:////4PcV683Feat0ZdR7EPPWSSwfwGiORpMb91Q84yDxjIhHAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL94qqq4vy0zEQAN5sx3MMAAAA=[0mszzsofia
+Running as SYSTEM
+Building remotely on [8mha:////4OdgDGPX9ixUPFgFDDGCO4B2v3cQ4S3fvgdn4U/g1/gVAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/cT01LwSIwCMcymcxQAAAA==[0magent2 (ubuntu linux) in workspace /home/zsofia/jenkins-agent/workspace/Hello user job - linux
+[Hello user job - linux] $ /bin/sh -xe /tmp/jenkins12773127862598206993.sh
++ echo Hello, Judit!
+Hello, Judit!
+Finished: SUCCESS

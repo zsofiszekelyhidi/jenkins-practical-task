@@ -1,0 +1,54 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>userName</name>
+          <value>Judit</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames>
+        <string>userName</string>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>szzsofia</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.jobConfigHistory.JobConfigBadgeAction plugin="jobConfigHistory@1163.ve82c7c6e60a_3">
+      <configDates>
+        <string>2022-08-09_19-54-01</string>
+        <string>2022-08-09_19-26-03</string>
+      </configDates>
+    </hudson.plugins.jobConfigHistory.JobConfigBadgeAction>
+    <jenkins.model.InterruptedBuildAction>
+      <causes>
+        <jenkins.model.CauseOfInterruption_-UserInterruption>
+          <user>szzsofia</user>
+        </jenkins.model.CauseOfInterruption_-UserInterruption>
+      </causes>
+    </jenkins.model.InterruptedBuildAction>
+  </actions>
+  <queueId>65</queueId>
+  <timestamp>1660067649450</timestamp>
+  <startTime>1660067649465</startTime>
+  <result>ABORTED</result>
+  <duration>84364</duration>
+  <charset>windows-1250</charset>
+  <keepLog>false</keepLog>
+  <builtOn>agent1</builtOn>
+  <workspace>C:\slave\workspace\Hello User job - windows</workspace>
+  <hudsonVersion>2.362</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

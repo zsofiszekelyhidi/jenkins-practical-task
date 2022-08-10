@@ -1,0 +1,47 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>username</name>
+          <value>Zsofi</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames>
+        <string>username</string>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>szzsofia</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.jobConfigHistory.JobConfigBadgeAction plugin="jobConfigHistory@1163.ve82c7c6e60a_3">
+      <configDates>
+        <string>2022-08-09_20-03-57</string>
+        <string>2022-08-09_19-36-47</string>
+      </configDates>
+    </hudson.plugins.jobConfigHistory.JobConfigBadgeAction>
+  </actions>
+  <queueId>80</queueId>
+  <timestamp>1660121629522</timestamp>
+  <startTime>1660121629541</startTime>
+  <result>SUCCESS</result>
+  <duration>560</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn>agent2</builtOn>
+  <workspace>/home/zsofia/jenkins-agent/workspace/Hello user job - linux</workspace>
+  <hudsonVersion>2.362</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

@@ -1,0 +1,18 @@
+<slave>
+  <name>agent2</name>
+  <description></description>
+  <remoteFS>/home/zsofia/jenkins-agent</remoteFS>
+  <numExecutors>1</numExecutors>
+  <mode>EXCLUSIVE</mode>
+  <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
+  <launcher class="hudson.slaves.JNLPLauncher">
+    <workDirSettings>
+      <disabled>false</disabled>
+      <internalDir>remoting</internalDir>
+      <failIfWorkDirIsMissing>false</failIfWorkDirIsMissing>
+    </workDirSettings>
+    <webSocket>false</webSocket>
+  </launcher>
+  <label>linux ubuntu</label>
+  <nodeProperties/>
+</slave>

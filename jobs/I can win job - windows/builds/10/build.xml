@@ -1,0 +1,27 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+          <int>172</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>75</queueId>
+  <timestamp>1660120642997</timestamp>
+  <startTime>1660120643006</startTime>
+  <result>FAILURE</result>
+  <duration>538</duration>
+  <charset>windows-1250</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\Székelyhidi Zsófia\Tanulás\epam\jenkins-practical-task\workspace\I can win job - windows</workspace>
+  <hudsonVersion>2.362</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

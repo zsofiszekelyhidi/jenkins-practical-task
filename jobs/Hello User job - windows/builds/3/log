@@ -1,0 +1,10 @@
+Started by user [8mha:////4PcV683Feat0ZdR7EPPWSSwfwGiORpMb91Q84yDxjIhHAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL94qqq4vy0zEQAN5sx3MMAAAA=[0mszzsofia
+Running as SYSTEM
+Building on the built-in node in workspace C:\Users\Székelyhidi Zsófia\Tanulás\epam\jenkins-practical-task\workspace\Hello User - windows
+[Hello User - windows] $ cmd /c call C:\WINDOWS\TEMP\jenkins4667668086057334286.bat
+
+C:\Users\Sz‚kelyhidi Zs¢fia\Tanul s\epam\jenkins-practical-task\workspace\Hello User - windows>echo "Hello, Judit!" 
+"Hello, Judit!"
+
+C:\Users\Sz‚kelyhidi Zs¢fia\Tanul s\epam\jenkins-practical-task\workspace\Hello User - windows>exit 0 
+Finished: SUCCESS
